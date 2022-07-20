@@ -1,4 +1,1 @@
-Hello Github!
-Hello from Jenkins!
-Hello 1. time!
-Hello 2. time!
+Implementiran u Jenkins-u!
